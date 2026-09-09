@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.230.0"
   latestRelease: "v0.230.0"
   latestPrerelease: "v0.230.0-rc.0"
-  collectedAt: 2026-09-09T06:06:07Z
+  collectedAt: 2026-09-09T20:21:15Z
 timeline:
   created: 2018-05-23
   lastCommit: 2026-09-08
@@ -90,7 +90,7 @@ total:
   commit: 8532
 ---
 path: /home/runner/.x-repo/github.com/eksctl-io/eksctl
-collectedAt: 2026-09-09T06:06:19Z
+collectedAt: 2026-09-09T20:21:38Z
 loc:
   Go:
     code: 340578
