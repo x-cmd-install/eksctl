@@ -38,7 +38,7 @@ Total: **449,202** lines of code across **2122** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,211 · **Forks**: 1,500 · **Open issues**: 2,950 · **Contributors**: 347
+- **Stars**: 5,210 · **Forks**: 1,500 · **Open issues**: 2,950 · **Contributors**: 347
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **449,202** lines of code across **2122** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 26 | 6 | 0 | 1 | 17 |
-| last60d | 2026-07-12 | 2 | 46 | 6 | 3 | 1 | 67 |
-| 90d | 2026-06-12 | 6 | 56 | 8 | 5 | 1 | 75 |
-| last180d | 2026-03-14 | 12 | 102 | 10 | 12 | 3 | 117 |
-| 360d | 2025-09-15 | 32 | 205 | 10 | 44 | 4 | 212 |
-| last720d | 2024-09-20 | 80 | 503 | 10 | 149 | 4 | 550 |
+| 30d | 2026-08-12 | 2 | 16 | 6 | 0 | 1 | 17 |
+| last60d | 2026-07-13 | 2 | 46 | 6 | 3 | 1 | 67 |
+| 90d | 2026-06-13 | 6 | 56 | 8 | 5 | 1 | 75 |
+| last180d | 2026-03-15 | 12 | 102 | 10 | 12 | 3 | 117 |
+| 360d | 2025-09-16 | 32 | 204 | 10 | 44 | 4 | 212 |
+| last720d | 2024-09-21 | 80 | 503 | 10 | 149 | 4 | 550 |
 
 ## Release assets
 
@@ -69,11 +69,11 @@ Total: **449,202** lines of code across **2122** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/eksctl). **7** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **8** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.229.0` | ⚠️ outdated |
+| Arch | `0.230.0` | ✅ latest |
 | Homebrew | `0.230.0` | ✅ latest |
 | Nix unstable | `0.230.0` | ✅ latest |
 | openSUSE Tumbleweed | `0.230.0` | ✅ latest |
@@ -87,4 +87,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:47:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:04:29Z._
