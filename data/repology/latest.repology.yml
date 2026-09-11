@@ -1,68 +1,3 @@
-- repo: kali_rolling
-  subrepo: main
-  srcname: eksctl
-  binnames:
-    - eksctl
-  visiblename: eksctl
-  version: 0.229.0
-  origversion: 0.229.0-0kali1
-  status: outdated
-  maintainers:
-    - devel@kali.org
-    - sophie@kali.org
-  categories:
-    - golang
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: eksctl
-  binnames:
-    - eksctl
-  visiblename: eksctl
-  version: 0.217.0
-  origversion: 0.217.0-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-    - palinuro@parrotsec.org
-  categories:
-    - golang
-- repo: macports
-  srcname: sysutils/eksctl
-  binname: eksctl
-  visiblename: eksctl
-  version: 0.230.0
-  origversion: null
-  status: newest
-  summary: Simple CLI tool for creating clusterrs on AWS EKS
-  maintainers:
-    - szczad@github
-    - herbygillot@github
-  licenses:
-    - Apache-2
-  categories:
-    - sysutils
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: eksctl
-  binname: eksctl
-  visiblename: eksctl
-  version: 0.229.0
-  origversion: 0.229.0-1
-  status: outdated
-  summary: Command line tool for creating clusters on Amazon EKS
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: eksctl
-  binname: eksctl
-  visiblename: eksctl
-  version: 0.229.0
-  origversion: 0.229.0-1
-  status: outdated
-  summary: Command line tool for creating clusters on Amazon EKS
-  licenses:
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: eksctl
@@ -134,6 +69,57 @@
   origversion: null
   status: rolling
   summary: Simple command-line tool for creating clusters on Amazon EKS
+- repo: kali_rolling
+  subrepo: main
+  srcname: eksctl
+  binnames:
+    - eksctl
+  visiblename: eksctl
+  version: 0.230.0
+  origversion: 0.230.0-0kali1
+  status: newest
+  maintainers:
+    - devel@kali.org
+    - sophie@kali.org
+  categories:
+    - golang
+- repo: macports
+  srcname: sysutils/eksctl
+  binname: eksctl
+  visiblename: eksctl
+  version: 0.230.0
+  origversion: null
+  status: newest
+  summary: Simple CLI tool for creating clusterrs on AWS EKS
+  maintainers:
+    - szczad@github
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: eksctl
+  binname: eksctl
+  visiblename: eksctl
+  version: 0.229.0
+  origversion: 0.229.0-1
+  status: outdated
+  summary: Command line tool for creating clusters on Amazon EKS
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: eksctl
+  binname: eksctl
+  visiblename: eksctl
+  version: 0.229.0
+  origversion: 0.229.0-1
+  status: outdated
+  summary: Command line tool for creating clusters on Amazon EKS
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: eksctl
   visiblename: eksctl
@@ -254,6 +240,20 @@
     - Apache-2.0
 - repo: parrot
   subrepo: parrot/main
+  srcname: eksctl
+  binnames:
+    - eksctl
+  visiblename: eksctl
+  version: 0.217.0
+  origversion: 0.217.0-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+    - palinuro@parrotsec.org
+  categories:
+    - golang
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: eksctl
   binnames:
     - eksctl
