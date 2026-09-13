@@ -38,22 +38,22 @@ Total: **449,202** lines of code across **2122** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,210 · **Forks**: 1,501 · **Open issues**: 2,950 · **Contributors**: 347
+- **Stars**: 5,210 · **Forks**: 1,502 · **Open issues**: 2,950 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 555 · **Merged PRs**: 3802 · **Open PRs**: 11 · **Closed issues**: 2866 · **Open issues**: 84 · **Commits**: 8536
+- **Releases**: 555 · **Merged PRs**: 3802 · **Open PRs**: 17 · **Closed issues**: 2866 · **Open issues**: 84 · **Commits**: 8536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 16 | 7 | 0 | 1 | 19 |
-| last60d | 2026-07-14 | 2 | 48 | 7 | 3 | 1 | 69 |
-| 90d | 2026-06-14 | 6 | 58 | 9 | 5 | 1 | 77 |
-| last180d | 2026-03-16 | 12 | 104 | 11 | 12 | 3 | 119 |
-| 360d | 2025-09-17 | 32 | 206 | 11 | 44 | 4 | 214 |
-| last720d | 2024-09-22 | 80 | 505 | 11 | 149 | 4 | 552 |
+| 30d | 2026-08-14 | 1 | 16 | 13 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 2 | 48 | 13 | 3 | 1 | 0 |
+| 90d | 2026-06-15 | 6 | 58 | 15 | 5 | 1 | 0 |
+| last180d | 2026-03-17 | 12 | 104 | 17 | 12 | 3 | 0 |
+| 360d | 2025-09-18 | 32 | 203 | 17 | 44 | 4 | 0 |
+| last720d | 2024-09-23 | 80 | 505 | 17 | 149 | 4 | 552 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **449,202** lines of code across **2122** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **9** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **10** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:51:13Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:11:02Z._
