@@ -1,12 +1,13 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: eksctl
-  binname: eksctl
   visiblename: eksctl
-  version: 0.229.0
-  origversion: 0.229.0-1
+  version: 0.177.0
+  origversion: null
   status: outdated
-  summary: Command line tool for creating clusters on Amazon EKS
+  summary: A CLI for Amazon EKS
+  maintainers:
+    - xrelkd@github
+    - dr.elhombrechile@gmail.com
   licenses:
     - Apache-2.0
 - repo: altsisyphus
@@ -120,16 +121,15 @@
   summary: Command line tool for creating clusters on Amazon EKS
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_05
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: eksctl
+  binname: eksctl
   visiblename: eksctl
-  version: 0.177.0
-  origversion: null
-  status: outdated
-  summary: A CLI for Amazon EKS
-  maintainers:
-    - xrelkd@github
-    - dr.elhombrechile@gmail.com
+  version: 0.230.0
+  origversion: 0.230.0-1
+  status: newest
+  summary: Command line tool for creating clusters on Amazon EKS
   licenses:
     - Apache-2.0
 - repo: nix_stable_24_11
