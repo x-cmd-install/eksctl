@@ -48,12 +48,12 @@ x install eksctl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 16 | 13 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 2 | 48 | 13 | 3 | 1 | 0 |
-| 90d | 2026-06-15 | 6 | 58 | 15 | 5 | 1 | 0 |
-| last180d | 2026-03-17 | 12 | 104 | 17 | 12 | 3 | 0 |
-| 360d | 2025-09-18 | 32 | 203 | 17 | 44 | 4 | 0 |
-| last720d | 2024-09-23 | 80 | 505 | 17 | 149 | 4 | 552 |
+| 30d | 2026-08-15 | 0 | 16 | 13 | 0 | 1 | 14 |
+| last60d | 2026-07-16 | 2 | 48 | 13 | 3 | 1 | 69 |
+| 90d | 2026-06-16 | 6 | 58 | 15 | 5 | 1 | 77 |
+| last180d | 2026-03-18 | 12 | 103 | 17 | 12 | 3 | 119 |
+| 360d | 2025-09-19 | 32 | 202 | 17 | 44 | 4 | 210 |
+| last720d | 2024-09-24 | 80 | 505 | 17 | 148 | 4 | 552 |
 
 ## Release 资产
 
@@ -67,17 +67,6 @@ x install eksctl
 | [eksctl_Windows_amd64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.230.0/eksctl_Windows_amd64.zip) | 37.0 MiB | `native/win/x64` |
 | [eksctl_Windows_arm64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.230.0/eksctl_Windows_arm64.zip) | 32.0 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/eksctl) 上共有 **23** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.230.0` | ✅ latest |
-| Homebrew | `0.230.0` | ✅ latest |
-| Nix unstable | `0.230.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.230.0` | ✅ latest |
-
 ## 改进这些数据
 
 eksctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `eksctl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +76,4 @@ eksctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:11:02Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:37:08Z._
