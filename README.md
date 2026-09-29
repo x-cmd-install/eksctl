@@ -48,12 +48,12 @@ Total: **449,246** lines of code across **2122** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 15 | 16 | 0 | 3 | 10 |
-| last60d | 2026-07-30 | 2 | 50 | 18 | 1 | 3 | 72 |
-| 90d | 2026-06-30 | 4 | 53 | 18 | 4 | 3 | 73 |
-| last180d | 2026-04-01 | 10 | 99 | 18 | 12 | 4 | 117 |
-| 360d | 2025-10-03 | 30 | 200 | 18 | 41 | 5 | 201 |
-| last720d | 2024-10-08 | 78 | 501 | 18 | 143 | 6 | 548 |
+| 30d | 2026-08-30 | 0 | 14 | 16 | 0 | 3 | 10 |
+| last60d | 2026-07-31 | 2 | 50 | 18 | 1 | 3 | 72 |
+| 90d | 2026-07-01 | 4 | 52 | 18 | 4 | 3 | 73 |
+| last180d | 2026-04-02 | 10 | 98 | 18 | 12 | 4 | 117 |
+| 360d | 2025-10-04 | 30 | 200 | 18 | 41 | 5 | 201 |
+| last720d | 2024-10-09 | 78 | 501 | 18 | 143 | 6 | 547 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:37:33Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:00:22Z._
