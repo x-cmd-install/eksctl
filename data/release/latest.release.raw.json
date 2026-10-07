@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1164,
       "digest": "sha256:f7bb744db175db5df8464c0e8fd8ab2696ae1604d6ea6b06b4fef3a52695896b",
-      "download_count": 14606,
+      "download_count": 16050,
       "created_at": "2026-10-02T21:14:47Z",
       "updated_at": "2026-10-02T21:14:48Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10339,
       "digest": "sha256:a69c8a4369a187714ef912c16a58cc2cadfd8345abf4a7438643ac7bf20dc03c",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-10-02T21:14:48Z",
       "updated_at": "2026-10-02T21:14:48Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 38719818,
       "digest": "sha256:92a3ab9b04033ea69dd4f833f3c89bcefdf0cdff5f54e5bee44342b1911aa114",
-      "download_count": 1106,
+      "download_count": 1530,
       "created_at": "2026-10-02T21:14:43Z",
       "updated_at": "2026-10-02T21:14:45Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 35272679,
       "digest": "sha256:1e368bf18faf28bd3042bbf1ae1cc2430de8a80d60995898ccfca0423349f140",
-      "download_count": 440,
+      "download_count": 525,
       "created_at": "2026-10-02T21:14:43Z",
       "updated_at": "2026-10-02T21:14:45Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 37840692,
       "digest": "sha256:13cd1c4ae6ad3f74ea27aa1117c72e34ffa4ca8ff6d709261f7b1d7f411dc435",
-      "download_count": 19645,
+      "download_count": 26089,
       "created_at": "2026-10-02T21:14:46Z",
       "updated_at": "2026-10-02T21:14:47Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 405181,
       "digest": "sha256:f9949b373e193220f00797fd06d95349b7b595e5c4c33db24891c117d4581e67",
-      "download_count": 24,
+      "download_count": 31,
       "created_at": "2026-10-02T21:14:47Z",
       "updated_at": "2026-10-02T21:14:47Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_amd64.tar.gz.sbom.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 33317568,
       "digest": "sha256:aeb095535b4aebe308ca380d26c6a1325012fda9cd2c22b7cdffee2b5de73615",
-      "download_count": 12084,
+      "download_count": 13106,
       "created_at": "2026-10-02T21:14:45Z",
       "updated_at": "2026-10-02T21:14:47Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 405181,
       "digest": "sha256:0ba9282cffc5592229adc804427029e54e980e04800bd46e83b391ee12190420",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-02T21:14:47Z",
       "updated_at": "2026-10-02T21:14:47Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_arm64.tar.gz.sbom.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 38769637,
       "digest": "sha256:ab46806ecab964e1b383c411cea51199cec07fbe28074bf1f099a2e1a24c99e3",
-      "download_count": 273,
+      "download_count": 399,
       "created_at": "2026-10-02T21:14:43Z",
       "updated_at": "2026-10-02T21:14:45Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 33487073,
       "digest": "sha256:1cdba24089625b2dc2adb34dbe5c5b9ea57799be24365d98a54b6a563f0f02e6",
-      "download_count": 23,
+      "download_count": 33,
       "created_at": "2026-10-02T21:14:43Z",
       "updated_at": "2026-10-02T21:14:45Z",
       "browser_download_url": "https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_arm64.zip"
