@@ -14,11 +14,11 @@ x install eksctl
 
 ## Code insight
 
-Total: **450,309** lines of code across **2124** files in the top 5 languages.
+Total: **450,527** lines of code across **2125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 341,439 | 50,270 | 49,790 | 1822 |
+| Go | 341,657 | 50,265 | 49,812 | 1823 |
 | Json | 95,928 | 0 | 5 | 116 |
 | Yaml | 10,508 | 328 | 485 | 153 |
 | Svg | 678 | 4 | 0 | 15 |
@@ -33,7 +33,7 @@ Total: **450,309** lines of code across **2124** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.231.0` (2026-10-02)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-14
 - **Assets in release**: 14
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **450,309** lines of code across **2124** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 557 · **Merged PRs**: 3814 · **Open PRs**: 25 · **Closed issues**: 2869 · **Open issues**: 89 · **Commits**: 8548
+- **Releases**: 557 · **Merged PRs**: 3815 · **Open PRs**: 24 · **Closed issues**: 2869 · **Open issues**: 89 · **Commits**: 8549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 8 | 19 | 1 | 7 | 12 |
-| last60d | 2026-08-15 | 2 | 28 | 25 | 1 | 8 | 28 |
-| 90d | 2026-07-16 | 4 | 60 | 25 | 4 | 8 | 81 |
-| last180d | 2026-04-17 | 12 | 105 | 25 | 12 | 8 | 124 |
-| 360d | 2025-10-19 | 32 | 203 | 25 | 40 | 10 | 207 |
-| last720d | 2024-10-24 | 74 | 500 | 25 | 138 | 11 | 534 |
+| 30d | 2026-09-15 | 2 | 9 | 19 | 1 | 7 | 13 |
+| last60d | 2026-08-16 | 2 | 29 | 24 | 1 | 8 | 29 |
+| 90d | 2026-07-17 | 4 | 61 | 24 | 4 | 8 | 82 |
+| last180d | 2026-04-18 | 12 | 106 | 24 | 12 | 8 | 125 |
+| 360d | 2025-10-20 | 32 | 203 | 24 | 40 | 10 | 208 |
+| last720d | 2024-10-25 | 74 | 501 | 24 | 137 | 11 | 535 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:14:18Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:43:21Z._
