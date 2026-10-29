@@ -1,3 +1,15 @@
+- repo: nix_stable_24_11
+  srcname: eksctl
+  visiblename: eksctl
+  version: 0.193.0
+  origversion: null
+  status: outdated
+  summary: CLI for Amazon EKS
+  maintainers:
+    - xrelkd@github
+    - dr.elhombrechile@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: altsisyphus
   srcname: eksctl
   binnames:
@@ -132,18 +144,6 @@
     - dr.elhombrechile@gmail.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: eksctl
-  visiblename: eksctl
-  version: 0.193.0
-  origversion: null
-  status: outdated
-  summary: CLI for Amazon EKS
-  maintainers:
-    - xrelkd@github
-    - dr.elhombrechile@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: eksctl
   visiblename: eksctl
@@ -239,7 +239,7 @@
   licenses:
     - Apache-2.0
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: eksctl
   binnames:
     - eksctl
@@ -253,7 +253,7 @@
   categories:
     - golang
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: eksctl
   binnames:
     - eksctl
