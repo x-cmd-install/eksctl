@@ -1,16 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: eksctl
-  visiblename: eksctl
-  version: 0.208.0
-  origversion: null
-  status: outdated
-  summary: CLI for Amazon EKS
-  maintainers:
-    - xrelkd@github
-    - dr.elhombrechile@gmail.com
-    - xiaoyin_c@qq.com
-  licenses:
-    - Apache-2.0
 - repo: altsisyphus
   srcname: eksctl
   binnames:
@@ -105,23 +92,23 @@
   srcname: eksctl
   binname: eksctl
   visiblename: eksctl
-  version: 0.229.0
-  origversion: 0.229.0-1
+  version: 0.150.0
+  origversion: 0.150.0-1
   status: outdated
   summary: Command line tool for creating clusters on Amazon EKS
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: eksctl
   binname: eksctl
   visiblename: eksctl
-  version: 0.230.0
-  origversion: 0.230.0-1
+  version: 0.150.0
+  origversion: 0.150.0-1
   status: outdated
   summary: Command line tool for creating clusters on Amazon EKS
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: eksctl
@@ -155,6 +142,19 @@
   maintainers:
     - xrelkd@github
     - dr.elhombrechile@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: eksctl
+  visiblename: eksctl
+  version: 0.208.0
+  origversion: null
+  status: outdated
+  summary: CLI for Amazon EKS
+  maintainers:
+    - xrelkd@github
+    - dr.elhombrechile@gmail.com
+    - xiaoyin_c@qq.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_11
@@ -239,7 +239,7 @@
   licenses:
     - Apache-2.0
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: eksctl
   binnames:
     - eksctl
@@ -253,7 +253,7 @@
   categories:
     - golang
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: eksctl
   binnames:
     - eksctl
