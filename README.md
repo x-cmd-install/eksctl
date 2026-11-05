@@ -33,27 +33,27 @@ Total: **450,530** lines of code across **2125** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.231.0` (2026-10-02)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 5,217 · **Forks**: 1,508 · **Open issues**: 2,959 · **Contributors**: 347
+- **Stars**: 5,217 · **Forks**: 1,508 · **Open issues**: 2,959 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 557 · **Merged PRs**: 3816 · **Open PRs**: 20 · **Closed issues**: 2874 · **Open issues**: 85 · **Commits**: 8550
+- **Releases**: 557 · **Merged PRs**: 3817 · **Open PRs**: 19 · **Closed issues**: 2874 · **Open issues**: 85 · **Commits**: 8551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 3 | 10 | 0 | 4 | 3 |
-| last60d | 2026-09-05 | 2 | 17 | 19 | 6 | 4 | 18 |
-| 90d | 2026-08-06 | 4 | 61 | 20 | 7 | 4 | 83 |
-| last180d | 2026-05-08 | 10 | 89 | 20 | 14 | 4 | 101 |
-| 360d | 2025-11-09 | 30 | 175 | 20 | 41 | 6 | 174 |
-| last720d | 2024-11-14 | 74 | 498 | 20 | 138 | 7 | 536 |
+| 30d | 2026-10-06 | 0 | 3 | 9 | 0 | 3 | 4 |
+| last60d | 2026-09-06 | 2 | 18 | 18 | 6 | 4 | 19 |
+| 90d | 2026-08-07 | 4 | 62 | 19 | 7 | 4 | 84 |
+| last180d | 2026-05-09 | 10 | 90 | 19 | 14 | 4 | 102 |
+| 360d | 2025-11-10 | 30 | 175 | 19 | 41 | 6 | 175 |
+| last720d | 2024-11-15 | 74 | 499 | 19 | 138 | 7 | 537 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:44:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:59:43Z._
