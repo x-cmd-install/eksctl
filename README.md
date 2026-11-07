@@ -48,12 +48,12 @@ Total: **450,530** lines of code across **2125** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 9 | 0 | 3 | 4 |
-| last60d | 2026-09-07 | 2 | 18 | 18 | 6 | 4 | 19 |
-| 90d | 2026-08-08 | 4 | 62 | 19 | 7 | 4 | 84 |
-| last180d | 2026-05-10 | 10 | 90 | 19 | 14 | 4 | 102 |
-| 360d | 2025-11-11 | 30 | 173 | 19 | 40 | 6 | 175 |
-| last720d | 2024-11-16 | 74 | 499 | 19 | 137 | 7 | 537 |
+| 30d | 2026-10-08 | 0 | 3 | 9 | 0 | 3 | 4 |
+| last60d | 2026-09-08 | 2 | 18 | 18 | 6 | 4 | 19 |
+| 90d | 2026-08-09 | 4 | 62 | 19 | 7 | 4 | 84 |
+| last180d | 2026-05-11 | 10 | 90 | 19 | 14 | 4 | 102 |
+| 360d | 2025-11-12 | 28 | 173 | 19 | 40 | 6 | 175 |
+| last720d | 2024-11-17 | 74 | 499 | 19 | 137 | 7 | 537 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Total: **450,530** lines of code across **2125** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **10** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **11** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:12:38Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:27Z._
