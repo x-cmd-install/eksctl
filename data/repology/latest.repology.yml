@@ -1,16 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: eksctl
-  visiblename: eksctl
-  version: 0.217.0
-  origversion: null
-  status: outdated
-  summary: CLI for Amazon EKS
-  maintainers:
-    - xrelkd@github
-    - dr.elhombrechile@gmail.com
-    - xiaoyin_c@qq.com
-  licenses:
-    - Apache-2.0
 - repo: altsisyphus
   srcname: eksctl
   binnames:
@@ -161,6 +148,19 @@
   srcname: eksctl
   visiblename: eksctl
   version: 0.208.0
+  origversion: null
+  status: outdated
+  summary: CLI for Amazon EKS
+  maintainers:
+    - xrelkd@github
+    - dr.elhombrechile@gmail.com
+    - xiaoyin_c@qq.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: eksctl
+  visiblename: eksctl
+  version: 0.217.0
   origversion: null
   status: outdated
   summary: CLI for Amazon EKS
