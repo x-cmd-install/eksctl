@@ -14,12 +14,12 @@ x install eksctl
 
 ## Code insight
 
-Total: **450,530** lines of code across **2125** files in the top 5 languages.
+Total: **451,361** lines of code across **2133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 341,660 | 50,266 | 49,812 | 1823 |
-| Json | 95,928 | 0 | 5 | 116 |
+| Go | 342,434 | 50,325 | 49,894 | 1831 |
+| Json | 95,985 | 0 | 5 | 116 |
 | Yaml | 10,508 | 328 | 485 | 153 |
 | Svg | 678 | 4 | 0 | 15 |
 | Sh | 428 | 82 | 131 | 18 |
@@ -33,27 +33,27 @@ Total: **450,530** lines of code across **2125** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.231.0` (2026-10-02)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-09
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 5,218 · **Forks**: 1,508 · **Open issues**: 2,959 · **Contributors**: 348
+- **Stars**: 5,219 · **Forks**: 1,508 · **Open issues**: 2,959 · **Contributors**: 349
 
 ## Totals (cumulative)
 
-- **Releases**: 557 · **Merged PRs**: 3817 · **Open PRs**: 15 · **Closed issues**: 2874 · **Open issues**: 85 · **Commits**: 8551
+- **Releases**: 557 · **Merged PRs**: 3824 · **Open PRs**: 8 · **Closed issues**: 2874 · **Open issues**: 85 · **Commits**: 8558
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 3 | 9 | 0 | 3 | 2 |
-| last60d | 2026-09-10 | 2 | 16 | 15 | 5 | 4 | 15 |
-| 90d | 2026-08-11 | 4 | 43 | 15 | 6 | 4 | 32 |
-| last180d | 2026-05-13 | 10 | 88 | 15 | 13 | 4 | 101 |
-| 360d | 2025-11-14 | 28 | 172 | 15 | 40 | 6 | 173 |
-| last720d | 2024-11-19 | 74 | 498 | 15 | 136 | 7 | 537 |
+| 30d | 2026-10-11 | 0 | 5 | 7 | 0 | 3 | 9 |
+| last60d | 2026-09-11 | 2 | 21 | 8 | 5 | 4 | 22 |
+| 90d | 2026-08-12 | 4 | 40 | 8 | 6 | 4 | 39 |
+| last180d | 2026-05-14 | 10 | 95 | 8 | 13 | 4 | 108 |
+| 360d | 2025-11-15 | 28 | 179 | 8 | 40 | 6 | 180 |
+| last720d | 2024-11-20 | 74 | 505 | 8 | 136 | 7 | 544 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:46:58Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:52:24Z._
