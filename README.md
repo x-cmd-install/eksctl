@@ -38,22 +38,22 @@ Total: **451,361** lines of code across **2133** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,221 · **Forks**: 1,510 · **Open issues**: 2,959 · **Contributors**: 349
+- **Stars**: 5,220 · **Forks**: 1,510 · **Open issues**: 2,960 · **Contributors**: 349
 
 ## Totals (cumulative)
 
-- **Releases**: 557 · **Merged PRs**: 3824 · **Open PRs**: 13 · **Closed issues**: 2874 · **Open issues**: 85 · **Commits**: 8558
+- **Releases**: 557 · **Merged PRs**: 3824 · **Open PRs**: 13 · **Closed issues**: 2874 · **Open issues**: 86 · **Commits**: 8558
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 4 | 10 | 0 | 1 | 9 |
-| last60d | 2026-09-16 | 2 | 18 | 13 | 5 | 4 | 22 |
-| 90d | 2026-08-17 | 2 | 38 | 13 | 6 | 4 | 39 |
-| last180d | 2026-05-19 | 10 | 95 | 13 | 13 | 4 | 108 |
-| 360d | 2025-11-20 | 28 | 177 | 13 | 40 | 6 | 180 |
-| last720d | 2024-11-25 | 74 | 502 | 13 | 132 | 7 | 544 |
+| 30d | 2026-10-17 | 0 | 4 | 10 | 0 | 2 | 9 |
+| last60d | 2026-09-17 | 2 | 17 | 13 | 4 | 5 | 19 |
+| 90d | 2026-08-18 | 2 | 36 | 13 | 6 | 5 | 35 |
+| last180d | 2026-05-20 | 10 | 95 | 13 | 13 | 5 | 108 |
+| 360d | 2025-11-21 | 28 | 176 | 13 | 40 | 7 | 174 |
+| last720d | 2024-11-26 | 74 | 501 | 13 | 131 | 8 | 542 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:59:09Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:31:42Z._
