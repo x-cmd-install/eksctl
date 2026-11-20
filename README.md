@@ -32,58 +32,58 @@ Total: **451,892** lines of code across **2134** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.232.0-rc.0` (2026-10-02)
+- **Latest**: `v0.232.0` (2026-11-19)
 - **Last commit**: 2026-11-19
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 5,220 · **Forks**: 1,509 · **Open issues**: 2,960 · **Contributors**: 349
+- **Stars**: 5,219 · **Forks**: 1,509 · **Open issues**: 2,960 · **Contributors**: 349
 
 ## Totals (cumulative)
 
-- **Releases**: 558 · **Merged PRs**: 3833 · **Open PRs**: 6 · **Closed issues**: 2874 · **Open issues**: 86 · **Commits**: 8567
+- **Releases**: 559 · **Merged PRs**: 3833 · **Open PRs**: 6 · **Closed issues**: 2874 · **Open issues**: 86 · **Commits**: 8567
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 12 | 3 | 0 | 1 | 18 |
-| last60d | 2026-09-20 | 3 | 26 | 6 | 4 | 5 | 28 |
-| 90d | 2026-08-21 | 3 | 43 | 6 | 6 | 5 | 44 |
-| last180d | 2026-05-23 | 11 | 102 | 6 | 12 | 5 | 117 |
-| 360d | 2025-11-24 | 29 | 183 | 6 | 39 | 7 | 183 |
-| last720d | 2024-11-29 | 75 | 510 | 6 | 131 | 8 | 545 |
+| 30d | 2026-10-21 | 2 | 11 | 3 | 0 | 1 | 18 |
+| last60d | 2026-09-21 | 4 | 26 | 6 | 4 | 5 | 28 |
+| 90d | 2026-08-22 | 4 | 43 | 6 | 6 | 5 | 44 |
+| last180d | 2026-05-24 | 12 | 102 | 6 | 12 | 5 | 117 |
+| 360d | 2025-11-25 | 28 | 182 | 6 | 38 | 7 | 183 |
+| last720d | 2024-11-30 | 76 | 510 | 6 | 131 | 8 | 545 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [eksctl_checksums.txt](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_checksums.txt) | 1.1 KiB | `other` |
-| [eksctl_checksums.txt.sigstore.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_checksums.txt.sigstore.json) | 10.1 KiB | `other` |
-| [eksctl_Darwin_amd64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_amd64.tar.gz) | 36.9 MiB | `native/darwin/x64` |
-| [eksctl_Darwin_amd64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_amd64.tar.gz.sbom.json) | 395.9 KiB | `native/darwin/x64` |
-| [eksctl_Darwin_arm64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_arm64.tar.gz) | 33.6 MiB | `native/darwin/arm64` |
-| [eksctl_Darwin_arm64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Darwin_arm64.tar.gz.sbom.json) | 395.9 KiB | `native/darwin/arm64` |
-| [eksctl_Linux_amd64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_amd64.tar.gz) | 36.1 MiB | `native/linux/x64` |
-| [eksctl_Linux_amd64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_amd64.tar.gz.sbom.json) | 395.7 KiB | `native/linux/x64` |
-| [eksctl_Linux_arm64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_arm64.tar.gz) | 31.8 MiB | `native/linux/arm64` |
-| [eksctl_Linux_arm64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Linux_arm64.tar.gz.sbom.json) | 395.7 KiB | `native/linux/arm64` |
-| [eksctl_Windows_amd64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_amd64.zip) | 37.0 MiB | `native/win/x64` |
-| [eksctl_Windows_amd64.zip.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_amd64.zip.sbom.json) | 402.8 KiB | `native/win/x64` |
-| [eksctl_Windows_arm64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_arm64.zip) | 31.9 MiB | `native/win/arm64` |
-| [eksctl_Windows_arm64.zip.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.231.0/eksctl_Windows_arm64.zip.sbom.json) | 402.8 KiB | `native/win/arm64` |
+| [eksctl_checksums.txt](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_checksums.txt) | 1.1 KiB | `other` |
+| [eksctl_checksums.txt.sigstore.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_checksums.txt.sigstore.json) | 10.1 KiB | `other` |
+| [eksctl_Darwin_amd64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Darwin_amd64.tar.gz) | 36.5 MiB | `native/darwin/x64` |
+| [eksctl_Darwin_amd64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Darwin_amd64.tar.gz.sbom.json) | 388.3 KiB | `native/darwin/x64` |
+| [eksctl_Darwin_arm64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Darwin_arm64.tar.gz) | 33.1 MiB | `native/darwin/arm64` |
+| [eksctl_Darwin_arm64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Darwin_arm64.tar.gz.sbom.json) | 388.3 KiB | `native/darwin/arm64` |
+| [eksctl_Linux_amd64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Linux_amd64.tar.gz) | 35.6 MiB | `native/linux/x64` |
+| [eksctl_Linux_amd64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Linux_amd64.tar.gz.sbom.json) | 388.1 KiB | `native/linux/x64` |
+| [eksctl_Linux_arm64.tar.gz](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Linux_arm64.tar.gz) | 31.2 MiB | `native/linux/arm64` |
+| [eksctl_Linux_arm64.tar.gz.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Linux_arm64.tar.gz.sbom.json) | 388.1 KiB | `native/linux/arm64` |
+| [eksctl_Windows_amd64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Windows_amd64.zip) | 36.5 MiB | `native/win/x64` |
+| [eksctl_Windows_amd64.zip.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Windows_amd64.zip.sbom.json) | 395.2 KiB | `native/win/x64` |
+| [eksctl_Windows_arm64.zip](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Windows_arm64.zip) | 31.4 MiB | `native/win/arm64` |
+| [eksctl_Windows_arm64.zip.sbom.json](https://github.com/eksctl-io/eksctl/releases/download/v0.232.0/eksctl_Windows_arm64.zip.sbom.json) | 395.2 KiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **11** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **3** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.231.0` | ✅ latest |
-| Homebrew | `0.231.0` | ✅ latest |
-| Nix unstable | `0.231.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.231.0` | ✅ latest |
+| Arch | `0.231.0` | ⚠️ outdated |
+| Homebrew | `0.232.0` | ✅ latest |
+| Nix unstable | `0.231.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.231.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:22:54Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:33:51Z._
