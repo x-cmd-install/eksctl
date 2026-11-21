@@ -48,12 +48,12 @@ Total: **451,892** lines of code across **2134** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 11 | 3 | 0 | 1 | 18 |
-| last60d | 2026-09-21 | 4 | 26 | 6 | 4 | 5 | 28 |
-| 90d | 2026-08-22 | 4 | 43 | 6 | 6 | 5 | 44 |
-| last180d | 2026-05-24 | 12 | 102 | 6 | 12 | 5 | 117 |
-| 360d | 2025-11-25 | 28 | 182 | 6 | 38 | 7 | 183 |
-| last720d | 2024-11-30 | 76 | 510 | 6 | 131 | 8 | 545 |
+| 30d | 2026-10-22 | 2 | 10 | 3 | 0 | 1 | 18 |
+| last60d | 2026-09-22 | 4 | 26 | 6 | 4 | 5 | 28 |
+| 90d | 2026-08-23 | 4 | 43 | 6 | 6 | 5 | 44 |
+| last180d | 2026-05-25 | 12 | 102 | 6 | 12 | 5 | 117 |
+| 360d | 2025-11-26 | 28 | 180 | 6 | 38 | 7 | 183 |
+| last720d | 2024-12-01 | 76 | 506 | 6 | 131 | 8 | 545 |
 
 ## Release assets
 
@@ -76,13 +76,13 @@ Total: **451,892** lines of code across **2134** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **3** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/eksctl). **4** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.231.0` | ⚠️ outdated |
 | Homebrew | `0.232.0` | ✅ latest |
-| Nix unstable | `0.231.0` | ⚠️ outdated |
+| Nix unstable | `0.232.0` | ✅ latest |
 | openSUSE Tumbleweed | `0.231.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -94,4 +94,4 @@ Install metadata for eksctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:33:51Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:57:35Z._
